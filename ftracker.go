@@ -148,5 +148,3 @@ func SwimmingSpentCalories(lengthPool, countPool int, duration, weight float64) 
 	return SpentCalories
 
 }
-
-//Проверка
